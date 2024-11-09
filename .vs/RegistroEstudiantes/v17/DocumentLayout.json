@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5481934-ACF8-4D14-91F6-E018D1311A4B}|Logica\\Logica.csproj|c:\\users\\sam\\source\\repos\\registroestudiantes\\logica\\clsestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5481934-ACF8-4D14-91F6-E018D1311A4B}|Logica\\Logica.csproj|solutionrelative:logica\\clsestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3962C0B-5ADE-460B-A904-DFFF15CB80FD}|RegistroEstudiantes\\RegistroEstudiantes.csproj|C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\registroestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3962C0B-5ADE-460B-A904-DFFF15CB80FD}|RegistroEstudiantes\\RegistroEstudiantes.csproj|solutionrelative:registroestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3962C0B-5ADE-460B-A904-DFFF15CB80FD}|RegistroEstudiantes\\RegistroEstudiantes.csproj|C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\registroestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3962C0B-5ADE-460B-A904-DFFF15CB80FD}|RegistroEstudiantes\\RegistroEstudiantes.csproj|solutionrelative:registroestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5481934-ACF8-4D14-91F6-E018D1311A4B}|Logica\\Logica.csproj|C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\logica\\library\\clslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5481934-ACF8-4D14-91F6-E018D1311A4B}|Logica\\Logica.csproj|solutionrelative:logica\\library\\clslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3962C0B-5ADE-460B-A904-DFFF15CB80FD}|RegistroEstudiantes\\RegistroEstudiantes.csproj|C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\registroestudiantes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3962C0B-5ADE-460B-A904-DFFF15CB80FD}|RegistroEstudiantes\\RegistroEstudiantes.csproj|solutionrelative:registroestudiantes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5481934-ACF8-4D14-91F6-E018D1311A4B}|Logica\\Logica.csproj|C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\logica\\library\\clstexboxevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5481934-ACF8-4D14-91F6-E018D1311A4B}|Logica\\Logica.csproj|solutionrelative:logica\\library\\clstexboxevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5481934-ACF8-4D14-91F6-E018D1311A4B}|Logica\\Logica.csproj|C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\logica\\library\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5481934-ACF8-4D14-91F6-E018D1311A4B}|Logica\\Logica.csproj|solutionrelative:logica\\library\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A6B7D4-D333-490D-A3FB-BD96002D917B}|Data\\Data.csproj|C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A6B7D4-D333-490D-A3FB-BD96002D917B}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\RegistroEstudiantes\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "RegistroEstudiantes\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\RegistroEstudiantes\\Form1.Designer.cs",
+              "RelativeToolTip": "RegistroEstudiantes\\Form1.Designer.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAowMMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T02:15:42.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\Logica\\Library\\clsLibrary.cs",
+              "RelativeDocumentMoniker": "Logica\\Library\\clsLibrary.cs",
+              "ToolTip": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\Logica\\Library\\clsLibrary.cs",
+              "RelativeToolTip": "Logica\\Library\\clsLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:52:01.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\RegistroEstudiantes\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroEstudiantes\\Form1.cs",
+              "ToolTip": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\RegistroEstudiantes\\Form1.cs",
+              "RelativeToolTip": "RegistroEstudiantes\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:03:21.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\RegistroEstudiantes\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroEstudiantes\\Form1.cs",
+              "ToolTip": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\RegistroEstudiantes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RegistroEstudiantes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:13:13.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClsEstudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\Logica\\ClsEstudiantes.cs",
+              "RelativeDocumentMoniker": "Logica\\ClsEstudiantes.cs",
+              "ToolTip": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\Logica\\ClsEstudiantes.cs",
+              "RelativeToolTip": "Logica\\ClsEstudiantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:13:00.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsTexBoxEvent.cs",
+              "DocumentMoniker": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\Logica\\Library\\clsTexBoxEvent.cs",
+              "RelativeDocumentMoniker": "Logica\\Library\\clsTexBoxEvent.cs",
+              "ToolTip": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\Logica\\Library\\clsTexBoxEvent.cs",
+              "RelativeToolTip": "Logica\\Library\\clsTexBoxEvent.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:45:10.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UploadImage.cs",
+              "DocumentMoniker": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\Logica\\Library\\UploadImage.cs",
+              "RelativeDocumentMoniker": "Logica\\Library\\UploadImage.cs",
+              "ToolTip": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\Logica\\Library\\UploadImage.cs",
+              "RelativeToolTip": "Logica\\Library\\UploadImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:55:48.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\SAM\\source\\repos\\RegistroEstudiantes\\Data\\Class1.cs",
+              "RelativeToolTip": "Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:12:26.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
